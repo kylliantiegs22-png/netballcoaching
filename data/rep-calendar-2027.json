@@ -1,0 +1,989 @@
+{
+ "source": "WDNA Representative Program 2027 Season Calendar (PDF supplied by the coach). Programs: JSA = Junior State Age, SSA = Senior State Age, GBNL. The PDF gives no session times or venues; the coach sets those in the app.",
+ "events": [
+  {
+   "program": "JSA",
+   "date": "2026-11-22",
+   "weekday": "Sunday",
+   "type": "Trials",
+   "event": "JSA trials",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2026-11-29",
+   "weekday": "Sunday",
+   "type": "Trials",
+   "event": "JSA trials - Call back",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2026-11-30",
+   "weekday": "Monday",
+   "type": "Uniform",
+   "event": "Uniform fittings (SINGLETS only)",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2026-12-07",
+   "weekday": "Monday",
+   "type": "Uniform",
+   "event": "Uniform fittings (SINGLETS only)",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-02-01",
+   "weekday": "Monday",
+   "type": "Induction",
+   "event": "Parent/Player Induction",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-02-08",
+   "weekday": "Monday",
+   "type": "Squad",
+   "event": "Squad training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-02-15",
+   "weekday": "Monday",
+   "type": "Squad",
+   "event": "Squad training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-02-22",
+   "weekday": "Monday",
+   "type": "Squad",
+   "event": "Squad training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-02-27",
+   "weekday": "Saturday",
+   "type": "Squad",
+   "event": "DPNA Squad Carnival",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-03-01",
+   "weekday": "Monday",
+   "type": "Uniform",
+   "event": "Uniform fitting",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-03-01",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "JSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-03-08",
+   "weekday": "Monday",
+   "type": "Uniform",
+   "event": "Uniform fitting",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-03-08",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "JSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-03-15",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "JSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-03-22",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "JSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-03-29",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "TBC - Easter Monday",
+   "tbc": true
+  },
+  {
+   "program": "JSA",
+   "date": "2027-04-05",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "TBC - Senior State Age",
+   "tbc": true
+  },
+  {
+   "program": "JSA",
+   "date": "2027-04-12",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "JSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-04-19",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "JSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-04-26",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "JSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-05-03",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "JSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-05-10",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "JSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-05-16",
+   "weekday": "Sunday",
+   "type": "Carnival",
+   "event": "WDNA JSA Carnival",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-05-17",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "JSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-05-24",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "JSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-05-31",
+   "weekday": "Monday",
+   "type": "Team Bonding",
+   "event": "Team Bonding / Captain Presentation - TBC",
+   "tbc": true
+  },
+  {
+   "program": "JSA",
+   "date": "2027-06-07",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "JSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-06-13",
+   "weekday": "Sunday",
+   "type": "Carnival",
+   "event": "DPNA JSA Carnival",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-06-14",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "JSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-06-20",
+   "weekday": "Sunday",
+   "type": "Carnival",
+   "event": "MDNA - Duncan Cup - TBC",
+   "tbc": true
+  },
+  {
+   "program": "JSA",
+   "date": "2027-06-21",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "JSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-06-28",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "JSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-07-02",
+   "weekday": "Friday",
+   "type": "Carnival",
+   "event": "NQ Junior State Age Carnival (Travel Day)",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-07-03",
+   "weekday": "Saturday",
+   "type": "Carnival",
+   "event": "NQ Junior State Age Carnival (Day 1)",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-07-04",
+   "weekday": "Sunday",
+   "type": "Carnival",
+   "event": "NQ Junior State Age Carnival (Day 2)",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-07-05",
+   "weekday": "Monday",
+   "type": "Carnival",
+   "event": "NQ Junior State Age Carnival (Day 3)",
+   "tbc": false
+  },
+  {
+   "program": "JSA",
+   "date": "2027-07-06",
+   "weekday": "Tuesday",
+   "type": "Carnival",
+   "event": "NQ Junior State Age Carnival (Day 4)",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2026-10-18",
+   "weekday": "Sunday",
+   "type": "Trials",
+   "event": "SSA trials",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2026-10-26",
+   "weekday": "Monday",
+   "type": "Trials",
+   "event": "SSA trials",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2026-11-02",
+   "weekday": "Monday",
+   "type": "Uniform",
+   "event": "Uniform fittings",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2026-11-02",
+   "weekday": "Monday",
+   "type": "Other",
+   "event": "Pre-season athlete testing",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-02-01",
+   "weekday": "Monday",
+   "type": "Induction",
+   "event": "Parent/Player Induction",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-02-01",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "SSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-02-08",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "SSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-02-15",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "SSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-02-20",
+   "weekday": "Saturday",
+   "type": "Carnival",
+   "event": "DPNA SSA Twilight Carnival",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-02-22",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "SSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-03-01",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "SSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-03-07",
+   "weekday": "Sunday",
+   "type": "Carnival",
+   "event": "WDNA SSA Carnival",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-03-08",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "SSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-03-14",
+   "weekday": "Sunday",
+   "type": "Team Bonding",
+   "event": "Team bonding / Captains Presentation - TBC",
+   "tbc": true
+  },
+  {
+   "program": "SSA",
+   "date": "2027-03-15",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "SSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-03-21",
+   "weekday": "Sunday",
+   "type": "Carnival",
+   "event": "Duncan Cup - TBC",
+   "tbc": true
+  },
+  {
+   "program": "SSA",
+   "date": "2027-03-22",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "SSA Compulsory Training",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-03-29",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "SSA Compulsory Training (Easter Monday)",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-04-03",
+   "weekday": "Saturday",
+   "type": "Carnival",
+   "event": "NQ Senior State Age Carnival (Day 1)",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-04-04",
+   "weekday": "Sunday",
+   "type": "Carnival",
+   "event": "NQ Senior State Age Carnival (Day 2)",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-04-05",
+   "weekday": "Monday",
+   "type": "Carnival",
+   "event": "NQ Senior State Age Carnival (Day 3)",
+   "tbc": false
+  },
+  {
+   "program": "SSA",
+   "date": "2027-04-06",
+   "weekday": "Tuesday",
+   "type": "Carnival",
+   "event": "NQ Senior State Age Carnival (Day 4)",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-01-31",
+   "weekday": "Sunday",
+   "type": "Trials",
+   "event": "GBNL trials",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-02-08",
+   "weekday": "Monday",
+   "type": "Trials",
+   "event": "GBNL trials - TBC",
+   "tbc": true
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-02-15",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-02-22",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-03-01",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-03-08",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-03-15",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-03-22",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-03-29",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "TBC - Easter Monday",
+   "tbc": true
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-04-05",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-04-12",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-04-15",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round 1",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-04-16",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round 1",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-04-19",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-04-22",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round 2",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-04-23",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round 2",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-04-26",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-04-29",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round 3",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-04-30",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round 3",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-05-03",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-05-10",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-05-13",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round 4",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-05-14",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round 4",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-05-17",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-05-20",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round 5",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-05-21",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round 5",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-05-24",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-05-27",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round 6",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-05-28",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round 6",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-05-31",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-06-03",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round 7",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-06-04",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round 7",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-06-07",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-06-10",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round 8",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-06-11",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round 8",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-06-14",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-06-17",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round 9",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-06-18",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round 9",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-06-21",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-06-24",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round 10",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-06-25",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round 10",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-06-28",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-07-05",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-07-12",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-07-15",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round 11",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-07-16",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round 11",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-07-19",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-07-22",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round 12",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-07-23",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round 12",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-07-26",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-07-29",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round 13",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-07-30",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round 13",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-08-02",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-08-09",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-08-12",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round 14",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-08-13",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round 14",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-08-16",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-08-19",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round Semi Final/Rnd 15 (TBC)",
+   "tbc": true
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-08-20",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round Semi Final/Rnd 15 (TBC)",
+   "tbc": true
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-08-23",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-08-26",
+   "weekday": "Thursday",
+   "type": "Game",
+   "event": "GBNL Round Prelim Final",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-08-27",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round Prelim Final",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-08-30",
+   "weekday": "Monday",
+   "type": "Training",
+   "event": "GBNL training",
+   "tbc": false
+  },
+  {
+   "program": "GBNL",
+   "date": "2027-09-03",
+   "weekday": "Friday",
+   "type": "Game",
+   "event": "GBNL Round Grand Final - ALL TEAMS",
+   "tbc": false
+  }
+ ]
+}
